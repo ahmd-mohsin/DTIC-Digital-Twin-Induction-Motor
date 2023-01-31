@@ -19,3 +19,5 @@ ultrasound data.
 
 
 The block Diagram is:
+
+![Screenshot 2023-02-01 000305](https://user-images.githubusercontent.com/107636242/215857464-e5ee16d8-1843-4700-adc1-7cc32ffb817d.jpg)
