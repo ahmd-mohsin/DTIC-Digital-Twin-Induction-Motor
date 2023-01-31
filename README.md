@@ -16,3 +16,6 @@ cannot be modelled using simulated motors. This includes using
 detection models on sensory thermography, oil analysis, and
 ultrasound data.
 ![Simulation](https://user-images.githubusercontent.com/107636242/215853338-e7f014a0-24ca-412e-b196-205467c402f3.jpg)
+
+
+The block Diagram is:
