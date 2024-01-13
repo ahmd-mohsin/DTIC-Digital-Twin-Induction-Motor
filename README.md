@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Digital-Twin-Induction-motor
+# DTIC: Digital-Twin-Induction-motor
 Digital Twin of an Induction Motor: Fault Analysis and Predictive Maintenance
 
 This repositiory contains my Digital Twin Induction Motor Experimnet. The details for this experiment are given below.
