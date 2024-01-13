@@ -15,7 +15,7 @@ To get started with downloading this repository, follow the steps below:
 
 Clone the repository to your local machine using the following command:
 
-    ```fish
+    ```
     https://github.com/ahmd-mohsin/Digital-Twin-Induction-motor.git
     ```
 
